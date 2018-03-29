@@ -1,0 +1,12 @@
+[submodule "libraries/Dash.ino"]
+	path = libraries/Dash.ino
+	url = https://github.com/rngtng/Dash.ino.git
+[submodule "libraries/aWOT"]
+	path = libraries/aWOT
+	url = https://github.com/lasselukkari/aWOT.git
+[submodule "libraries/hueDino"]
+	path = libraries/hueDino
+	url = https://github.com/andium/hueDino.git
+[submodule "libraries/ArduinoJson"]
+	path = libraries/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
